@@ -1,6 +1,6 @@
 package com.pearson.eselenium.ls.common.plaintexteditor.elements;
 
-import com.pearson.eselenium.ls.common.pages.utils.SwitchToFrame;
+com.pearson.eselenium.ls.common.pages.utils.SwitchToFrame;
 import com.pearson.eselenium.ls.common.radeditor.pages.LinkWizardInsertLinkPage;
 import com.pearson.test.eselenium.framework.BasicPieceObject;
 import com.pearson.test.eselenium.framework.core.UIElement;
